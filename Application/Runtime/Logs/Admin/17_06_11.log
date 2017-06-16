@@ -1,0 +1,862 @@
+[ 2017-06-11T13:28:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T13:28:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T13:28:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T13:45:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/cate.html
+ERR: 非法操作:cate
+
+[ 2017-06-11T13:46:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/cate.html
+ERR: 非法操作:cate
+
+[ 2017-06-11T14:02:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/cate.html
+ERR: 非法操作:cate
+
+[ 2017-06-11T14:02:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/cate.html
+ERR: 非法操作:cate
+
+[ 2017-06-11T14:16:41+08:00 ] 127.0.0.1 /index.php/Admin/NewsType/add.html
+ERR: 1146:La table 'my_shop_db.news_type' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `news_type`
+
+[ 2017-06-11T14:17:37+08:00 ] 127.0.0.1 /index.php/Admin/NewsType/add.html
+ERR: 1146:La table 'my_shop_db.news_type' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `news_type`
+
+[ 2017-06-11T14:17:44+08:00 ] 127.0.0.1 /index.php/Admin/NewsType/add.html
+ERR: 1146:La table 'my_shop_db.news_type' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `news_type`
+
+[ 2017-06-11T14:31:39+08:00 ] 127.0.0.1 /index.php/Admin/NewsType/edit/id/2.html
+ERR: 1054:Champ '' inconnu dans field list
+ [ SQL语句 ] : SELECT `id`,`c_name`,`` FROM `news_class` WHERE `id` = 2 LIMIT 1  
+
+[ 2017-06-11T14:31:46+08:00 ] 127.0.0.1 /index.php/Admin/NewsType/edit/id/2.html
+ERR: 1054:Champ '' inconnu dans field list
+ [ SQL语句 ] : SELECT `id`,`c_name`,`` FROM `news_class` WHERE `id` = 2 LIMIT 1  
+
+[ 2017-06-11T15:44:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T15:44:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T15:45:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T15:45:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T15:45:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T15:47:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T15:57:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T15:58:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T16:00:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T16:39:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T16:39:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T16:39:57+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1062:Duplicata du champ '0' pour la clef 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `news_img` (`photo`) VALUES ('Public/Uploads/2017-06-11/593d01dc89dd3.jpg')
+
+[ 2017-06-11T16:41:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T16:41:10+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1062:Duplicata du champ '0' pour la clef 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `news_img` (`photo`) VALUES ('Public/Uploads/2017-06-11/593d02224c569.jpg')
+
+[ 2017-06-11T16:45:10+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1062:Duplicata du champ '0' pour la clef 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `news_img` (`photo`) VALUES ('Public/Uploads/2017-06-11/593d02224c569.jpg')
+
+[ 2017-06-11T16:45:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T16:47:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T16:47:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T16:48:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T16:48:45+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1062:Duplicata du champ '0' pour la clef 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `news_img` () VALUES ()
+
+[ 2017-06-11T16:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:35:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:36:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:37:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:37:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:42:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:43:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:44:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:51:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:51:06+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1062:Duplicata du champ '0' pour la clef 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `news_img` () VALUES ()
+
+[ 2017-06-11T17:52:07+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1048:Le champ 'photo' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `news_img` (`news_id`,`photo`) VALUES ('32',NULL)
+
+[ 2017-06-11T17:52:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:52:17+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1048:Le champ 'photo' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `news_img` (`news_id`,`photo`) VALUES ('33',NULL)
+
+[ 2017-06-11T17:53:24+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1062:Duplicata du champ '0' pour la clef 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `news_img` (`news_id`) VALUES ('34')
+
+[ 2017-06-11T17:53:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:53:32+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1062:Duplicata du champ '0' pour la clef 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `news_img` (`news_id`) VALUES ('35')
+
+[ 2017-06-11T17:55:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:55:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:57:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:57:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:58:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:59:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:59:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T17:59:13+08:00 ] 127.0.0.1 /index.php/Admin/News/add.html
+ERR: 1048:Le champ 'photo' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `news_img` (`news_id`,`photo`) VALUES ('42',NULL)
+
+[ 2017-06-11T18:49:47+08:00 ] 127.0.0.1 /index.php/Admin/News/index.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-11T18:50:59+08:00 ] 127.0.0.1 /index.php/Admin/News/index.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-11T18:51:05+08:00 ] 127.0.0.1 /index.php/Admin/News/index.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-11T18:51:07+08:00 ] 127.0.0.1 /index.php/Admin/News/index.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-11T18:51:09+08:00 ] 127.0.0.1 /index.php/Admin/News/index.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-11T18:51:11+08:00 ] 127.0.0.1 /index.php/Admin/News/index.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-11T19:41:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T19:41:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:26:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:37:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:41:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:41:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0550s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-11T21:41:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-11T21:42:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:42:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-11T21:42:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-11T21:42:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0220s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-11T21:43:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0080s ]
+SQL: SELECT `id`,`item` FROM `spec_items` WHERE ( 1=1 AND spec_id='60' )  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-06-11T21:43:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0350s ]
+SQL: SELECT * FROM `spec_items` WHERE `id` IN ('339','340')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN (60)  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant ￥ - assumed '￥' E:\shop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+NOTIC: [8] Use of undefined constant ￥ - assumed '￥' E:\shop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+
+[ 2017-06-11T21:44:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:44:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:44:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:45:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:45:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:45:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:45:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0080s ]
+SQL: SELECT `id`,`item` FROM `spec_items` WHERE ( 1=1 AND spec_id='60' )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-11T21:45:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `spec_items` WHERE `id` IN ('339')  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN (60)  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant ￥ - assumed '￥' E:\shop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+
+[ 2017-06-11T21:47:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:47:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:47:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`item` FROM `spec_items` WHERE ( 1=1 AND spec_id='60' )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-11T21:47:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `spec_items` WHERE `id` IN ('339')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN (60)  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant ￥ - assumed '￥' E:\shop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+
+[ 2017-06-11T21:47:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:47:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:47:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T21:47:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0670s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`item` FROM `spec_items` WHERE ( 1=1 AND spec_id='60' )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-11T21:47:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `spec_items` WHERE `id` IN ('339')  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN (60)  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant ￥ - assumed '￥' E:\shop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+
+[ 2017-06-11T21:50:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:51:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:51:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:51:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:53:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:55:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:55:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:58:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:59:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:59:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T21:59:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T22:00:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T22:02:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T22:02:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T22:04:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T22:05:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/51.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T22:05:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/53.html
+ERR: 1064:Erreur de syntaxe près de ')' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-11T22:06:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T22:06:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T22:06:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0480s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-11T22:08:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T22:08:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-11T22:08:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0060s ]
+SQL: SELECT `id`,`item` FROM `spec_items` WHERE ( 1=1 AND spec_id='61' )  [ RunTime:0.0000s ]
+SQL: SELECT `id`,`item` FROM `spec_items` WHERE ( 1=1 AND spec_id='62' )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-11T22:08:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec_items` WHERE `id` IN ('343','346')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN (61,62)  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant ￥ - assumed '￥' E:\shop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+
+[ 2017-06-11T22:08:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add_spec.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_type` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `goods_type`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 4  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`item` FROM `spec_items` WHERE ( 1=1 AND spec_id='61' )  [ RunTime:0.0000s ]
+SQL: SELECT `id`,`item` FROM `spec_items` WHERE ( 1=1 AND spec_id='62' )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 3  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `spec` WHERE `type_id` = 5  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-11T22:08:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `spec_items` [ RunTime:0.0330s ]
+SQL: SELECT * FROM `spec_items` WHERE `id` IN ('343','342','346')  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN (61,62)  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant ￥ - assumed '￥' E:\shop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+NOTIC: [8] Use of undefined constant ￥ - assumed '￥' E:\shop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+

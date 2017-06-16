@@ -1,0 +1,78 @@
+<style>
+#spec_list{padding:10px;}
+#spec_list .tab{height:35px;border-bottom:1px solid #dedede;padding-left: 0;}
+#spec_list .tab li{float: left;line-height: 35px;padding: 0 5px;cursor: pointer; width: 50px;}
+#spec_list .tab li.cur{background: #01a1ff;}
+#spec_list .body{padding: 10px;display: none;}
+#spec_list .body.cur{display: block;}
+#spec_list .body dl{clear:both;}
+#spec_list .body dt,#spec_list .body dd{float: left;}
+#spec_list .body dt{width: 30px;text-align: right;padding-right: 10px;}
+#spec_list .body dd{padding: 0 10px;border:1px solid #dedede;margin-right: 5px;cursor: pointer;}
+#spec_list .body dd.cur{background: #01a1ff;color: #fff;border: 1px solid #01a1ff;}
+</style>
+
+<div id="spec_list">
+  <ul class="tab">
+  <foreach name="goods_type" item="type" key="tk">
+    <li <eq name="tk" value='0'>class="cur"</eq>>{$type.type_name}</li>
+  </foreach>
+    
+  </ul>
+  <div class="tab_body">
+  <foreach name="goods_type" item="t" key="k">
+    <div class="body <eq name="k" value="0">cur</eq>">
+      <foreach name="t['spec']" item="s">
+        <dl>
+            <dt>{$s.spec_name}</dt>
+            <foreach name="s['spec_items']" item="i">
+              <dd data-item-id="{$i.id}">{$i.item}</dd>
+            </foreach>
+            <p style="clear:both;"></p>
+        </dl>
+      </foreach>
+    </div>
+  </foreach>
+  </div>
+  <button type="button" onclick="add_spec_items()">添加规格</button>
+  <button type="button" onclick="close_windows()">取消</button>
+</div>
+<script>
+  function add_spec_items(){
+    var item_id = [];
+    $('#spec_list dd.cur').each(function(){
+      item_id.push($(this).attr('data-item-id'));
+    });
+    if(item_id.length == 0){
+      layer.msg('请选择规格',{icon:5});
+      return;
+    }
+    $.ajax({
+      type:'post',
+      data:{id:item_id},
+      url:'{:U("Goods/handel_group")}',
+      dataType:'html',
+      success:function(data){
+        $('#add_spec_body').html(data);
+        close_windows();
+      },
+      error:function(e){}
+
+    });
+  }
+  function close_windows(){
+    layer.closeAll();
+  }
+
+  $('#spec_list .tab li').click(function(){
+      $(this).parent().find('li').removeClass('cur');
+      $(this).addClass('cur');
+      var index = $('#spec_list .tab li').index(this);
+      $('#spec_list .tab_body .body').css({display:'none'});
+      $('#spec_list .tab_body .body').eq(index).css({display:'block'});
+  }); 
+  $('dd').click(function(){
+        $(this).parents('.body').siblings().find('dd').removeClass('cur');
+        $(this).toggleClass('cur');
+  });
+</script>

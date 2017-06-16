@@ -1,0 +1,85 @@
+[ 2017-06-13T09:13:54+08:00 ] 127.0.0.1 /
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2017-06-13T09:26:49+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 无法加载控制器:Goods
+
+[ 2017-06-13T09:27:21+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 无法加载控制器:Goods
+
+[ 2017-06-13T09:29:54+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 无法加载控制器:Goods
+
+[ 2017-06-13T09:29:57+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 无法加载控制器:Goods
+
+[ 2017-06-13T09:30:07+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 无法加载控制器:Goods
+
+[ 2017-06-13T09:30:30+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 非法操作:list
+
+[ 2017-06-13T09:30:35+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 非法操作:list
+
+[ 2017-06-13T09:30:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 非法操作:list
+
+[ 2017-06-13T09:30:51+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 非法操作:list
+
+[ 2017-06-13T09:40:42+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 非法操作:list
+
+[ 2017-06-13T09:42:29+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 非法操作:list
+
+[ 2017-06-13T09:42:39+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 非法操作:list
+
+[ 2017-06-13T09:42:41+08:00 ] 127.0.0.1 /index.php/Home/Goods/list.html
+ERR: 非法操作:list
+
+[ 2017-06-13T10:13:03+08:00 ] 127.0.0.1 /index.php/Home/Goods/index.html
+ERR: XML标签语法错误 : name="c" item="v"
+					<li
+
+[ 2017-06-13T10:18:45+08:00 ] 127.0.0.1 /index.php/Home/Goods/pro_list.html
+ERR: 非法操作:pro_list
+
+[ 2017-06-13T10:21:34+08:00 ] 127.0.0.1 /index.php/Home/Goods/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-13T10:26:13+08:00 ] 127.0.0.1 /index.php/Home/Goods/index.html
+ERR: XML标签语法错误 : name="goods" item="g"
+					<li class="col-md-3"
+
+[ 2017-06-13T10:43:40+08:00 ] 127.0.0.1 /index.php/Home/Goods/pro_list.html
+ERR: 非法操作:pro_list
+
+[ 2017-06-13T10:44:14+08:00 ] 127.0.0.1 /index.php/Home/Goods/shop_cart.html
+ERR: 非法操作:shop_cart
+
+[ 2017-06-13T10:51:30+08:00 ] 127.0.0.1 /index.php/Home/Goods/pro_list.html
+ERR: 非法操作:pro_list
+
+[ 2017-06-13T11:59:38+08:00 ] 127.0.0.1 /index.php/Home/Goods/index/cid/0.html
+ERR: 1052:Column 'id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `id`,`cate_name`,`pid` FROM `category` INNER JOIN goods on category.id = goods.category_id  WHERE `pid` = 0 
+
+[ 2017-06-13T11:59:51+08:00 ] 127.0.0.1 /index.php/Home/Goods/index/cid/0.html
+ERR: 1052:Column 'id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `id`,`cate_name`,`pid` FROM `category` INNER JOIN goods on category.id = goods.category_id  
+
+[ 2017-06-13T11:59:53+08:00 ] 127.0.0.1 /index.php/Home/Goods/index/cid/0.html
+ERR: 1052:Column 'id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `id`,`cate_name`,`pid` FROM `category` INNER JOIN goods on category.id = goods.category_id  
+
+[ 2017-06-13T11:59:57+08:00 ] 127.0.0.1 /index.php/Home/Goods/index/id/vid.html
+ERR: 1052:Column 'id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `id`,`cate_name`,`pid` FROM `category` INNER JOIN goods on category.id = goods.category_id  
+
+[ 2017-06-13T12:00:12+08:00 ] 127.0.0.1 /index.php/Home/Goods/index/id/vid.html
+ERR: 1052:Column 'id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `id`,`cate_name` FROM `category` INNER JOIN goods on category.id = goods.category_id  
+

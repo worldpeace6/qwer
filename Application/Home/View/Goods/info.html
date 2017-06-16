@@ -1,0 +1,87 @@
+<!--content-->
+<div class="pro_center-content">
+	<div class="container">
+		<div class="pro_center-banner">
+			<a href="###"><img src="__PUBLIC__images/pro_center-banner.jpg"></a>
+		</div>
+		<div class="pro_center-location">
+			<p><a href="index.html">首页</a>><a href="pro_list.html">产品中心</a>><a href="###">隔尿垫</a></p>
+		</div>
+		<ul>
+			<li><a href="pro_list.html">隔尿垫</a></li>
+			<li><a href="pro_list.html">尿布</a></li>
+			<li><a href="pro_list.html">凉席</a></li>
+			<li><a href="pro_list.html">毯被</a></li>
+			<li><a href="pro_list.html">睡袋</a></li>
+			<li><a href="pro_list.html">护栏婴儿</a></li>
+		</ul>
+		<div class="pro_center-details">
+			<div class="preview">
+				<div id="preview" class="spec-preview">
+					<span class="jqzoom"><img src="/{$goods['image']}"></span>
+				</div>
+				<div class="spec-scroll">
+					<div class="items">
+						<ol>
+						<foreach name="img" item="v">
+							<li><img src="/{$v['photo']}" onmousemove="preview(this);"></li>
+						</foreach>	
+						</ol>
+					</div>
+				</div>
+				<div class="pro_com"><span>承诺</span><span>15天退货</span><span>运费险</span><span>公益宝贝</span></div>
+				<div class="pro_pay"><span>支付</span><span>快捷支付</span><span>信用卡支付</span><span>余额宝支付</span><span>蚂蚁花呗</span></div>
+			</div>
+			<div class="right">
+				<h3>{$goods['goods_name']}</h3>
+				<div class="pro-con">{$desc['content']}</div>
+				<div class="box1">
+					<foreach name="group" item="value">
+					<div class="pro-spec">{$key}：
+						<foreach name="value" item="val">
+							<span class="item" style="margin-left:10px" >{$val['item']}</span>
+						</foreach>
+					</div>
+					</foreach>
+					<style>
+						.item{cursor:pointer} 
+					</style> 					
+					<div class="pro-price">本店价格：<span>￥{$goods['shop_price']}</span></div>
+					<div class="pro-price">参考价格：<span>￥{$goods['market_price']}</span></div>
+<!-- 					<foreach name="group" item="value">
+						<div class="pro-color" id="color">{$key}：
+							<foreach name="value" item="val">
+								<a class="color" href="###" onclick="color(this);">{$val['item']}</a>
+							</foreach>
+						</div>
+					</foreach> -->
+					<div class="pro-dis">配送：上海 至
+						<select>
+							<option value="1">广州市天河区</option>
+							<option value="2">广州市花都区</option>
+							<option value="3">广州市越秀区</option>
+							<option value="4">广州市白云区</option>
+							<option value="5">广州市番禺区</option>
+							<option value="6">深圳市龙华区</option>
+						</select>
+					</div>
+					<div class="pro-courier">快递 免运费 17:00前付款，预计5月12日(周四)送达</div>
+					<a href="shop_cart.html"><button name="buy">立即购买</button></a>
+					<div class="pro-com"><span>承诺</span><span>15天退货</span><span>运费险</span><span>公益宝贝</span></div>
+					<div class="pro-pay"><span>支付</span><span>快捷支付</span><span>信用卡支付</span><span>余额宝支付</span><span>蚂蚁花呗</span></div>
+				</div>
+				<div class="box2">
+					<div class="com">累计评论<br>1000</div>
+					<div class="succ">交易成功</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+    $('.item').click(function(){
+    	$(this).css({border:'1px solid red'}).siblings().css({border:'1px solid  transparent'});
+    });
+</script>
+<!--content end-->

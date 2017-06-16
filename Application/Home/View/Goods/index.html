@@ -1,0 +1,48 @@
+		<!--content-->
+		<div class="pro_list-content">
+			<div class="container">
+				<div class="pro_list-banner">
+					<a href="pro_list.html"><img src="__PUBLIC__images/pro_list-banner.jpg"></a>
+				</div>
+				<div class="pro_list-location">
+					<p><a href="index.html">首页</a>><a href="pro_list.html">产品中心</a></p>
+				</div>
+				<ul>
+					<foreach name="c" item="v">
+					<li><a href="{:U('Goods/index','id='.$v['id'])}">{$v.cate_name}</a></li>
+					</foreach>
+				
+				</ul>
+				<ol>
+				    <foreach name="goods" item="g">
+					<li class="col-md-3">
+						<div class="box">
+							<div class="box1"><a href="{:U('Goods/info','id='.$g['id'])}"><img src="/{$g.image}" width="232" height="231"></a>
+								<div class="mask">
+									<a href="{:U('Goods/info','id='.$g['id'])}">
+										<p class="p1">{$g.goods_name}</p>
+										<p class="p2">{$g.shop_price}</p>
+									</a>
+								</div>
+							</div>
+							<div class="box2">
+								<a href="shop_cart.html"><img src="__PUBLIC__images/cart.png"></a>
+								<a href="shop_cart.html">加入购物车</a>
+							</div>
+						</div>
+					</li>
+					</foreach>
+				</ol>
+				<div class="num">
+					<dl>
+						<dd><a class="left-right" href="pro_list.html"><</a></dd>
+						
+						<dd>{$page}</dd>
+						
+						
+						<dd><a class="left-right" href="pro_list.html">></a></dd>
+					</dl>
+				</div>
+			</div>
+		</div>
+		<!--content end-->
